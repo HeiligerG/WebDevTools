@@ -53,3 +53,23 @@ __pycache__/
 instance/
 config.py
 *.sqlite3
+Beispiel: React-Projekt
+bash
+Code kopieren
+# Logs
+*.log
+
+# Node.js
+node_modules/
+
+# React
+build/
+*.cache
+Feedback
+Falls du Vorschläge oder Verbesserungen für die Vorlagen hast, erstelle gerne ein Issue oder einen Pull Request.
+
+Lizenz
+Dieses Repository steht unter der MIT-Lizenz.
+
+markdown
+Code kopieren

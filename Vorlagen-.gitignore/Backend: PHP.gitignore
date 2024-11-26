@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# Lokale Umgebungsdateien
+.env
+.env.local
+.env.*.local
+
+# Composer-Abhängigkeiten
+vendor/
+
+# PHP-spezifische Dateien
+*.phar
+*.cache
+.phpunit.result.cache
+*.coverage
+
+# IDEs und Editoren
+.vscode/
+.idea/
+
+# Backup-Dateien
+*.bak
+*.old
+*.orig

@@ -38,7 +38,7 @@ Ein flexibles, anpassbares Schema, das speziell für Webanwendungen entwickelt w
 ### **2. `.gitignore`-Vorlagen**  
 Optimierte `.gitignore`-Dateien für gängige Technologien wie:  
 - **Frontend:** Tailwind CSS, React, Vue.js  
-- **Backend:** PHP, Node.js, Django  
+- **Backend:** PHP, Node.js, Django, Flask  
 - **Allgemein:** IDE-Dateien, Logs, Debugging-Artefakte  
 
 ### **3. Sicherheitsrichtlinien**  

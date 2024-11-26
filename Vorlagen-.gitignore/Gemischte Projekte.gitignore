@@ -1,0 +1,47 @@
+# Logs
+*.log
+logs/
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build-Dateien
+dist/
+build/
+public/css/
+*.css.map
+
+# Lokale Umgebungsdateien
+.env
+.env.local
+.env.*.local
+
+# IDEs und Editoren
+.vscode/
+.idea/
+
+# PHP
+vendor/
+*.phar
+
+# Python
+*.pyc
+*.pyo
+*.egg
+*.egg-info/
+__pycache__/
+
+# Datenbanken
+*.sqlite3
+db.sqlite3
+
+# Betriebssystemspezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Backup-Dateien
+*.bak
+*.old
+*.orig

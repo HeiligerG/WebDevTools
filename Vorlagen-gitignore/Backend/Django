@@ -1,0 +1,38 @@
+# Python-spezifische Dateien
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+__pycache__/
+
+# Logs
+*.log
+
+# Virtualenv
+.venv/
+env/
+ENV/
+venv/
+
+# Lokale Umgebungsdateien
+.env
+.env.local
+.env.*.local
+
+# Migrations
+*.sqlite3
+db.sqlite3
+
+# Build-Dateien
+staticfiles/
+media/
+
+# IDEs und Editoren
+.vscode/
+.idea/
+
+# Backup-Dateien
+*.bak
+*.old
+*.orig

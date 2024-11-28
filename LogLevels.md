@@ -1,6 +1,6 @@
 # Log Levels Template
 
-Dieses Repository bietet eine Übersicht über die häufigsten Log Levels und deren Bedeutung. Log Levels sind ein wichtiges Konzept, um die Protokollierung (Logging) von Ereignissen in einer Anwendung zu strukturieren und nach Priorität zu ordnen. Sie helfen Entwicklern, Fehler zu identifizieren, die Anwendung zu überwachen und mögliche Probleme frühzeitig zu erkennen.
+Diese .md file bietet eine Übersicht über die häufigsten Log Levels und deren Bedeutung. Log Levels sind ein wichtiges Konzept, um die Protokollierung (Logging) von Ereignissen in einer Anwendung zu strukturieren und nach Priorität zu ordnen. Sie helfen Entwicklern, Fehler zu identifizieren, die Anwendung zu überwachen und mögliche Probleme frühzeitig zu erkennen.
 
 ---
 

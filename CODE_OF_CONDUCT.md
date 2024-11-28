@@ -32,4 +32,4 @@ Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verh
 
 ## Zuordnung
 
-Dieser Verhaltenskodex basiert auf dem [Contributor Covenant][homepage], Version 2.0, verfügbar unter: [homepage](https://www.contributor-covenant.org)
+Dieser Verhaltenskodex basiert auf dem [Contributor Covenant](https://www.contributor-covenant.org).

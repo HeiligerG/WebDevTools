@@ -111,6 +111,3 @@ Dieses Repository ist für Entwickler gedacht, die:
 - Ihre Anwendungen durch strukturierte Protokollierung verbessern wollen.
 - Ein besseres Verständnis für den Umgang mit Fehlern und Ereignissen gewinnen möchten.
 Vielen Dank fürs Lesen! Wenn du Fragen oder Anregungen hast, kannst du gerne einen Issue eröffnen oder einen Pull Request stellen.
-```
-
-Du kannst diese Vorlage nach Belieben anpassen oder erweitern. Sie enthält Erklärungen zu den Log Levels, Beispiele und einen kleinen Beispielcode in JavaScript.

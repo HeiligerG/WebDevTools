@@ -57,6 +57,13 @@ Eine Sammlung von Best Practices und Codebeispielen für:
 - ERROR zur Erfassung von schwerwiegenden Fehlern
 - FATAL zur Behandlung kritischer Systemabstürze
 
+### **5. Beiträge zum Verhaltenskodex**  
+Eine Sammlung von Vorschlägen und Verbesserungen für:  
+- Klärung unklarer Formulierungen  
+- Hinzufügen neuer Bestimmungen für inklusives Verhalten  
+- Aktualisierung basierend auf Community-Feedback  
+- Anpassung an aktuelle Standards für professionelles Verhalten  
+
 ---
 
 ## **Geplante Erweiterungen**  

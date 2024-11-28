@@ -28,7 +28,7 @@ Projektbetreuer sind verantwortlich für die Klärung der Standards für akzepta
 
 ## Durchsetzung
 
-Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können dem Projektteam unter [KONTAKT-EMAIL] gemeldet werden. Alle Beschwerden werden geprüft und untersucht und werden zu einer Antwort führen, die angesichts der Umstände für notwendig und angemessen gehalten wird. Das Projektteam ist zur Vertraulichkeit verpflichtet.
+Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können dem Projektteam unter [devholyg@gmail.com] gemeldet werden. Alle Beschwerden werden geprüft und untersucht und werden zu einer Antwort führen, die angesichts der Umstände für notwendig und angemessen gehalten wird. Das Projektteam ist zur Vertraulichkeit verpflichtet.
 
 ## Zuordnung
 

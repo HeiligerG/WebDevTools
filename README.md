@@ -22,6 +22,7 @@ WebDevTools ist ein wachsendes Repository mit einer Sammlung von Tools, Vorlagen
 ✔️ Einheitliches Versionierungsschema für Webanwendungen  
 ✔️ Praktische Vorlagen für `.gitignore`, Dokumentation und CI/CD-Konfiguration    
 ✔️ Sicherheitsrichtlinien und Best Practices  
+✔️ Log Levels und deren Anwendung
 ✔️ Unterstützung für verschiedene Technologien und Frameworks (Fehlen)  
 
 ---
@@ -46,7 +47,15 @@ Eine Sammlung von Best Practices und Codebeispielen für:
 - SQL-Injektionsschutz  
 - Passwort-Hashing  
 - CSRF-Token-Validierung  
-- Eingabevalidierung und -sanitisierung  
+- Eingabevalidierung und -sanitisierung
+
+### **4. Log Levels Best Practices**
+Eine Sammlung von Best Practices und Codebeispielen für:
+- Richtige Verwendung von TRACE und DEBUG in der Entwicklungsphase
+- INFO für die Dokumentation wichtiger Systemereignisse
+- WARN zur Protokollierung potenzieller Probleme
+- ERROR zur Erfassung von schwerwiegenden Fehlern
+- FATAL zur Behandlung kritischer Systemabstürze
 
 ---
 

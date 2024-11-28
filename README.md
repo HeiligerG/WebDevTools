@@ -22,7 +22,7 @@ WebDevTools ist ein wachsendes Repository mit einer Sammlung von Tools, Vorlagen
 ✔️ Einheitliches Versionierungsschema für Webanwendungen  
 ✔️ Praktische Vorlagen für `.gitignore`, Dokumentation und CI/CD-Konfiguration    
 ✔️ Sicherheitsrichtlinien und Best Practices  
-✔️ Log Levels und deren Anwendung
+✔️ Log Levels und deren Anwendung  
 ✔️ Unterstützung für verschiedene Technologien und Frameworks (Fehlen)  
 
 ---

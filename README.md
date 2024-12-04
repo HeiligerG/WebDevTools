@@ -132,6 +132,12 @@ Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
 ---
 
+## **Contributor**  
+Danke für eure Beiträge, es freut mich das Repo wachsen zu sehen:
+- **Jonathan:** [Notacodes](https://github.com/notacodes)
+
+---
+
 ## **Kontakt**  
 Hast du Fragen oder Vorschläge? Kontaktiere mich:  
 - **Autor:** [HolyG](https://github.com/heiligerg)
